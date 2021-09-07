@@ -1,5 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=SukYoon%20Hahm&fontSize=60&fontColor=ffffff&fontAlignY=30&desc=Back-End%20Developer&descSize=30&descAlign=50&descAlignY=50&animation=fadeIn)
 
+<h3 align="center"> hello</h3>
+
+
+
+
+<img src="https://img.shields.io/badge/-JAVA-orange?style=flat-square&logo=java&logoColor=black"/>
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 <!--
 **luthita/luthita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

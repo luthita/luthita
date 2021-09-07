@@ -1,11 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=SukYoon%20Hahm&fontSize=60&fontColor=ffffff&fontAlignY=30&desc=Back-End%20Developer&descSize=30&descAlign=50&descAlignY=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SukYoon%20Hahm&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Back-End%20Developer&descSize=20&descAlign=50&descAlignY=50&animation=fadeIn)
 
-<h3 align="center"> hello</h3>
+<div align="center">
+  
+  <hr>
+  <h3 align="center">🛠️ Tech Stack 🛠️</h3>
+  <img src="https://img.shields.io/badge/-JAVA-orange?style=round-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-blue?style=round-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-html-green?style=round-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-css-red?style=round-square&logo=css3&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/-JQuery-lightgrey?style=round-square&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SpringBoot-brightgreen?style=round-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Mysql-yellow?style=round-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-blueviolet?style=round-square&logo=git&logoColor=white"/>
+  <br><br>
+  <h3 align="center">📭 Contact 📭</h3>
+  <a href="tjrdbs1002@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-crimson?style=round-square&logo=gmail&logoColor=white"/>
+  </a>
+  <br>
+  <h3 align="center">👀 Visitor 👀</h3>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluthita&count_bg=%23D7A0E3&title_bg=%238E688C&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</div>
 
 
 
 
-<img src="https://img.shields.io/badge/-JAVA-orange?style=flat-square&logo=java&logoColor=black"/>
+
 
 
 

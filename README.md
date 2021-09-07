@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=SukYoon%20Hahm&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Back-End%20Developer&descSize=20&descAlign=50&descAlignY=50&animation=fadeIn)
 
 <div align="center">
+  <h2 align="center"> Introduce </h2>
+  🌱 코딩테스트, 웹 개발, SQL 위주로 공부하는 취준생입니다 🌱
   <h3 align="center">🛠️ Tech Stack 🛠️</h3>
   <img src="https://img.shields.io/badge/-JAVA-orange?style=round-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-blue?style=round-square&logo=javascript&logoColor=white"/>

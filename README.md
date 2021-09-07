@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SukYoon%20Hahm&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Back-End%20Developer&descSize=20&descAlign=50&descAlignY=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=SukYoon%20Hahm&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Back-End%20Developer&descSize=20&descAlign=50&descAlignY=50&animation=fadeIn)
 
 <div align="center">
-  
-  <hr>
   <h3 align="center">🛠️ Tech Stack 🛠️</h3>
   <img src="https://img.shields.io/badge/-JAVA-orange?style=round-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-blue?style=round-square&logo=javascript&logoColor=white"/>
@@ -16,7 +14,7 @@
   <br><br>
   <h3 align="center">📭 Contact 📭</h3>
   <a href="tjrdbs1002@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-crimson?style=round-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-tjrdbs1002@gmail.com-crimson?style=round-square&logo=gmail&logoColor=white"/>
   </a>
   <br>
   <h3 align="center">👀 Visitor 👀</h3>
@@ -30,7 +28,7 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 <!--
 **luthita/luthita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

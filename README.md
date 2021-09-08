@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3 align="center"> Introduce </h3>
-  🌱 코딩테스트, 웹 개발, SQL 위주로 공부하는 취준생입니다 🌱
+  🌱 코딩테스트, 웹 개발, SQL 위주로 공부 중인 취준생입니다 🌱
   <h3 align="center">🛠️ Tech Stack 🛠️</h3>
   <img src="https://img.shields.io/badge/-JAVA-orange?style=round-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-blue?style=round-square&logo=javascript&logoColor=white"/>

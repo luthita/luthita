@@ -16,7 +16,7 @@
   <br><br>
   <h3 align="center">📭 Contact 📭</h3>
   <a href="luthita@plateer.com">
-    <img src="https://img.shields.io/badge/-tjrdbs1002@gmail.com-crimson?style=round-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-tjrdbs1002@plateer.com-crimson?style=round-square&logo=gmail&logoColor=white"/>
   </a>
   <br>
   <h3 align="center">👀 Visitor 👀</h3>

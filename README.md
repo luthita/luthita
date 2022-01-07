@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=SukYoon%20Hahm&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Back-End%20Developer&descSize=20&descAlign=50&descAlignY=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=SukYoon%20Hahm&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Web%20Developer&descSize=20&descAlign=50&descAlignY=50&animation=fadeIn)
 
 <div align="center">
   <h3 align="center"> Introduce </h3>
-  🌱 코딩테스트, 웹 개발, SQL 위주로 공부 중인 취준생입니다 🌱
+  🌱 PLATEER CM 부문 신입 개발자입니다. 🌱
   <h3 align="center">🛠️ Tech Stack 🛠️</h3>
   <img src="https://img.shields.io/badge/-JAVA-orange?style=round-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-blue?style=round-square&logo=javascript&logoColor=white"/>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Git-blueviolet?style=round-square&logo=git&logoColor=white"/>
   <br><br>
   <h3 align="center">📭 Contact 📭</h3>
-  <a href="tjrdbs1002@gmail.com">
+  <a href="luthita@plateer.com">
     <img src="https://img.shields.io/badge/-tjrdbs1002@gmail.com-crimson?style=round-square&logo=gmail&logoColor=white"/>
   </a>
   <br>
